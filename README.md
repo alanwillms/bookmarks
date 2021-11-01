@@ -1,8 +1,13 @@
 # Bookmarks
 My personal bookmarks
 
+* [Dictionaries](#dictionaries)
 * [Games](#games)
 * [Parenting](#parenting)
+
+## Dictionaries
+
+* [Ancient Greek](https://lsj.gr/wiki/)
 
 ## Games
 
